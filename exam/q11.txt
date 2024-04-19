@@ -1,0 +1,5 @@
+a. Code smells is where it uses switch statement and each of the cases are having different behavior based on their own state.
+
+c. Currently we are having many different behaviors that are based on its state which could be extracted to a new class. This is why State pattern is a perfect solution for this case.
+
+d. Composite pattern since it is constructing in a tree-like and would like to call subnode function to count all nodes and for iterator as well.

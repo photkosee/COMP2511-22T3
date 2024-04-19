@@ -1,0 +1,1 @@
+Because the type we use need to be subclasses of Collection<type> or the Collection itself

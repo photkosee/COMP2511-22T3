@@ -1,0 +1,1 @@
+It is valid since post condition could only be strengthened not weaken and this case it is strengthened from *5 to *2.

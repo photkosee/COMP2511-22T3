@@ -1,0 +1,2 @@
+a. purely incremantal design
+b. there would be lots of problems occuring while integrating

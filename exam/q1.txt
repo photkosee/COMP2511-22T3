@@ -1,0 +1,3 @@
+Obsever pattern for notifying via mails (when a post is updated it would notify all subscribers) and State pattern + visitor for
+each state of stakeholders (since they all have unique behavior in their own states) and for it to be able to be removed and added
+using visitor pattern.

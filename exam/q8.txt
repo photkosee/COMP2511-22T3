@@ -1,0 +1,2 @@
+Tina's solution isn't stable and isn't garanteed that the implementation would always passes the test eventhough the implementation is corrected.
+Tina could use pseudo random numbers (Random) and test with seeds to predict the random numbers that would be generated.
